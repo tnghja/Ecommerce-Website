@@ -1,6 +1,6 @@
 # A Phone Selling Website
 - FrontEnd : ReactJS
-- BackEnd :  ExpressJS
+- BackEnd :  ExpressJS, MongoDB
 
 ## Feature
 - Customer : 
